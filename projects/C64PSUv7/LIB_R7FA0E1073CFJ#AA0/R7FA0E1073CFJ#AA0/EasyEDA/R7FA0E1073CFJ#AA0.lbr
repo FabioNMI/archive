@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/19456888/465438/2.50/32/2/Integrated Circuit/-->
+<!DOCTYPE curve SYSTEM "eagle.dtd">
+<eagle version="7.7.0">
+<drawing>
+<settings>
+<setting alwaysvectorfont="no"/>
+<setting verticaltext="up"/>
+</settings>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<layers>
+<layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="yes"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
+<layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
+<layer number="31" name="tCream" color="7" fill="4" visible="no" active="yes"/>
+<layer number="32" name="bCream" color="7" fill="5" visible="no" active="yes"/>
+<layer number="33" name="tFinish" color="6" fill="3" visible="no" active="yes"/>
+<layer number="34" name="bFinish" color="6" fill="6" visible="no" active="yes"/>
+<layer number="35" name="tGlue" color="7" fill="4" visible="no" active="yes"/>
+<layer number="36" name="bGlue" color="7" fill="5" visible="no" active="yes"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="yes"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="yes"/>
+<layer number="39" name="tKeepout" color="4" fill="11" visible="yes" active="yes"/>
+<layer number="40" name="bKeepout" color="1" fill="11" visible="yes" active="yes"/>
+<layer number="41" name="tRestrict" color="4" fill="10" visible="yes" active="yes"/>
+<layer number="42" name="bRestrict" color="1" fill="10" visible="yes" active="yes"/>
+<layer number="43" name="vRestrict" color="2" fill="10" visible="yes" active="yes"/>
+<layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
+<layer number="45" name="Holes" color="7" fill="1" visible="no" active="yes"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
+<layer number="48" name="Document" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
+<layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
+<layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
+<layer number="93" name="Pins" color="2" fill="1" visible="no" active="yes"/>
+<layer number="94" name="Symbols" color="4" fill="1" visible="yes" active="yes"/>
+<layer number="95" name="Names" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="96" name="Values" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="97" name="Info" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="98" name="Guide" color="6" fill="1" visible="yes" active="yes"/>
+</layers>
+<library>
+<description>&lt;ARM Microcontrollers - MCU MCU RA0E1 ARM CM23 32MHZ 64K/12K LQFP32&lt;/b&gt;&lt;p&gt;
+&lt;author&gt;Created by SamacSys&lt;/author&gt;</description>
+<packages>
+<package name="QFP80P900X900X170-32N">
+<description>&lt;b&gt;PLQP0032GB-A&lt;/b&gt;&lt;br&gt;
+</description>
+<smd name="1" x="-4.238" y="2.8" dx="1.475" dy="0.6" layer="1" rot="R0"/>
+<smd name="2" x="-4.238" y="2" dx="1.475" dy="0.6" layer="1" rot="R0"/>
+<smd name="3" x="-4.238" y="1.2" dx="1.475" dy="0.6" layer="1" rot="R0"/>
+<smd name="4" x="-4.238" y="0.4" dx="1.475" dy="0.6" layer="1" rot="R0"/>
+<smd name="5" x="-4.238" y="-0.4" dx="1.475" dy="0.6" layer="1" rot="R0"/>
+<smd name="6" x="-4.238" y="-1.2" dx="1.475" dy="0.6" layer="1" rot="R0"/>
+<smd name="7" x="-4.238" y="-2" dx="1.475" dy="0.6" layer="1" rot="R0"/>
+<smd name="8" x="-4.238" y="-2.8" dx="1.475" dy="0.6" layer="1" rot="R0"/>
+<smd name="9" x="-2.8" y="-4.238" dx="1.475" dy="0.6" layer="1" rot="R90"/>
+<smd name="10" x="-2" y="-4.238" dx="1.475" dy="0.6" layer="1" rot="R90"/>
+<smd name="11" x="-1.2" y="-4.238" dx="1.475" dy="0.6" layer="1" rot="R90"/>
+<smd name="12" x="-0.4" y="-4.238" dx="1.475" dy="0.6" layer="1" rot="R90"/>
+<smd name="13" x="0.4" y="-4.238" dx="1.475" dy="0.6" layer="1" rot="R90"/>
+<smd name="14" x="1.2" y="-4.238" dx="1.475" dy="0.6" layer="1" rot="R90"/>
+<smd name="15" x="2" y="-4.238" dx="1.475" dy="0.6" layer="1" rot="R90"/>
+<smd name="16" x="2.8" y="-4.238" dx="1.475" dy="0.6" layer="1" rot="R90"/>
+<smd name="17" x="4.238" y="-2.8" dx="1.475" dy="0.6" layer="1" rot="R0"/>
+<smd name="18" x="4.238" y="-2" dx="1.475" dy="0.6" layer="1" rot="R0"/>
+<smd name="19" x="4.238" y="-1.2" dx="1.475" dy="0.6" layer="1" rot="R0"/>
+<smd name="20" x="4.238" y="-0.4" dx="1.475" dy="0.6" layer="1" rot="R0"/>
+<smd name="21" x="4.238" y="0.4" dx="1.475" dy="0.6" layer="1" rot="R0"/>
+<smd name="22" x="4.238" y="1.2" dx="1.475" dy="0.6" layer="1" rot="R0"/>
+<smd name="23" x="4.238" y="2" dx="1.475" dy="0.6" layer="1" rot="R0"/>
+<smd name="24" x="4.238" y="2.8" dx="1.475" dy="0.6" layer="1" rot="R0"/>
+<smd name="25" x="2.8" y="4.238" dx="1.475" dy="0.6" layer="1" rot="R90"/>
+<smd name="26" x="2" y="4.238" dx="1.475" dy="0.6" layer="1" rot="R90"/>
+<smd name="27" x="1.2" y="4.238" dx="1.475" dy="0.6" layer="1" rot="R90"/>
+<smd name="28" x="0.4" y="4.238" dx="1.475" dy="0.6" layer="1" rot="R90"/>
+<smd name="29" x="-0.4" y="4.238" dx="1.475" dy="0.6" layer="1" rot="R90"/>
+<smd name="30" x="-1.2" y="4.238" dx="1.475" dy="0.6" layer="1" rot="R90"/>
+<smd name="31" x="-2" y="4.238" dx="1.475" dy="0.6" layer="1" rot="R90"/>
+<smd name="32" x="-2.8" y="4.238" dx="1.475" dy="0.6" layer="1" rot="R90"/>
+<text x="0" y="0" align="center" size="1.27" layer="25" rot="R0" >&gt;NAME</text>
+<text x="0" y="0" align="center" size="1.27" layer="27" rot="R0" >&gt;VALUE</text>
+<wire x1="-5.225" y1="5.225" x2="5.225" y2="5.225" width="0.05" layer="51"/>
+<wire x1="5.225" y1="5.225" x2="5.225" y2="-5.225" width="0.05" layer="51"/>
+<wire x1="5.225" y1="-5.225" x2="-5.225" y2="-5.225" width="0.05" layer="51"/>
+<wire x1="-5.225" y1="-5.225" x2="-5.225" y2="5.225" width="0.05" layer="51"/>
+<wire x1="-3.5" y1="3.5" x2="3.5" y2="3.5" width="0.1" layer="51"/>
+<wire x1="3.5" y1="3.5" x2="3.5" y2="-3.5" width="0.1" layer="51"/>
+<wire x1="3.5" y1="-3.5" x2="-3.5" y2="-3.5" width="0.1" layer="51"/>
+<wire x1="-3.5" y1="-3.5" x2="-3.5" y2="3.5" width="0.1" layer="51"/>
+<wire x1="-3.5" y1="2.7" x2="-2.7" y2="3.5" width="0.1" layer="51"/>
+<wire x1="-3.15" y1="3.15" x2="3.15" y2="3.15" width="0.2" layer="21"/>
+<wire x1="3.15" y1="3.15" x2="3.15" y2="-3.15" width="0.2" layer="21"/>
+<wire x1="3.15" y1="-3.15" x2="-3.15" y2="-3.15" width="0.2" layer="21"/>
+<wire x1="-3.15" y1="-3.15" x2="-3.15" y2="3.15" width="0.2" layer="21"/>
+<circle x="-4.575" y="4" radius="0.2" width="0.4" layer="25"/>
+</package>
+</packages>
+<symbols>
+<symbol name="R7FA0E1073CFJ#AA0">
+<wire x1="5.08" y1="20.32" x2="43.18" y2="20.32" width="0.254" layer="94"/>
+<wire x1="43.18" y1="-35.56" x2="43.18" y2="20.32" width="0.254" layer="94"/>
+<wire x1="43.18" y1="-35.56" x2="5.08" y2="-35.56" width="0.254" layer="94"/>
+<wire x1="5.08" y1="20.32" x2="5.08" y2="-35.56" width="0.254" layer="94"/>
+<text x="44.45" y="25.4" align="center-left" size="1.778" layer="95">&gt;NAME</text>
+<text x="44.45" y="22.86" align="center-left" size="1.778" layer="96">&gt;VALUE</text>
+<pin name="VCL" x="0" y="0" length="middle" direction="io" rot="R0"/>
+<pin name="P215/XCIN" x="0" y="-2.54" length="middle" direction="io" rot="R0"/>
+<pin name="P214/XCOUT" x="0" y="-5.08" length="middle" direction="io" rot="R0"/>
+<pin name="VSS" x="0" y="-7.62" length="middle" direction="io" rot="R0"/>
+<pin name="P213/X2/EXCLK" x="0" y="-10.16" length="middle" direction="io" rot="R0"/>
+<pin name="P212/X1" x="0" y="-12.7" length="middle" direction="io" rot="R0"/>
+<pin name="VCC" x="0" y="-15.24" length="middle" direction="io" rot="R0"/>
+<pin name="P407" x="0" y="-17.78" length="middle" direction="io" rot="R0"/>
+<pin name="P914" x="15.24" y="-40.64" length="middle" direction="io" rot="R90"/>
+<pin name="P913" x="17.78" y="-40.64" length="middle" direction="io" rot="R90"/>
+<pin name="P208" x="20.32" y="-40.64" length="middle" direction="io" rot="R90"/>
+<pin name="P207" x="22.86" y="-40.64" length="middle" direction="io" rot="R90"/>
+<pin name="RES/P206" x="25.4" y="-40.64" length="middle" direction="io" rot="R90"/>
+<pin name="P201" x="27.94" y="-40.64" length="middle" direction="io" rot="R90"/>
+<pin name="P200" x="30.48" y="-40.64" length="middle" direction="io" rot="R90"/>
+<pin name="P300/SWCLK" x="33.02" y="-40.64" length="middle" direction="io" rot="R90"/>
+<pin name="P100" x="48.26" y="0" length="middle" direction="io" rot="R180"/>
+<pin name="P101" x="48.26" y="-2.54" length="middle" direction="io" rot="R180"/>
+<pin name="P102" x="48.26" y="-5.08" length="middle" direction="io" rot="R180"/>
+<pin name="P103" x="48.26" y="-7.62" length="middle" direction="io" rot="R180"/>
+<pin name="P112" x="48.26" y="-10.16" length="middle" direction="io" rot="R180"/>
+<pin name="P110" x="48.26" y="-12.7" length="middle" direction="io" rot="R180"/>
+<pin name="P109" x="48.26" y="-15.24" length="middle" direction="io" rot="R180"/>
+<pin name="P108/SWDIO" x="48.26" y="-17.78" length="middle" direction="io" rot="R180"/>
+<pin name="P010/VREFH0" x="15.24" y="25.4" length="middle" direction="io" rot="R270"/>
+<pin name="P011/VREFL0" x="17.78" y="25.4" length="middle" direction="io" rot="R270"/>
+<pin name="P008" x="20.32" y="25.4" length="middle" direction="io" rot="R270"/>
+<pin name="P009" x="22.86" y="25.4" length="middle" direction="io" rot="R270"/>
+<pin name="P012" x="25.4" y="25.4" length="middle" direction="io" rot="R270"/>
+<pin name="P013" x="27.94" y="25.4" length="middle" direction="io" rot="R270"/>
+<pin name="P014" x="30.48" y="25.4" length="middle" direction="io" rot="R270"/>
+<pin name="P015" x="33.02" y="25.4" length="middle" direction="io" rot="R270"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="R7FA0E1073CFJ#AA0" prefix="IC">
+<description>&lt;b&gt;ARM Microcontrollers - MCU MCU RA0E1 ARM CM23 32MHZ 64K/12K LQFP32&lt;/b&gt;&lt;p&gt;
+Source: &lt;a href="https://www.renesas.com/us/en/products/microcontrollers-microprocessors/ra-cortex-m-mcus/ra0e1-32mhz-arm-cortex-m23-entry-level-ultra-low-power-general-purpose-microcontroller"&gt; Datasheet &lt;/a&gt;</description>
+<gates>
+<gate name="G$1" symbol="R7FA0E1073CFJ#AA0" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="QFP80P900X900X170-32N">
+<connects>
+<connect gate="G$1" pin="VCL" pad="1"/>
+<connect gate="G$1" pin="P215/XCIN" pad="2"/>
+<connect gate="G$1" pin="P214/XCOUT" pad="3"/>
+<connect gate="G$1" pin="VSS" pad="4"/>
+<connect gate="G$1" pin="P213/X2/EXCLK" pad="5"/>
+<connect gate="G$1" pin="P212/X1" pad="6"/>
+<connect gate="G$1" pin="VCC" pad="7"/>
+<connect gate="G$1" pin="P407" pad="8"/>
+<connect gate="G$1" pin="P914" pad="9"/>
+<connect gate="G$1" pin="P913" pad="10"/>
+<connect gate="G$1" pin="P208" pad="11"/>
+<connect gate="G$1" pin="P207" pad="12"/>
+<connect gate="G$1" pin="RES/P206" pad="13"/>
+<connect gate="G$1" pin="P201" pad="14"/>
+<connect gate="G$1" pin="P200" pad="15"/>
+<connect gate="G$1" pin="P300/SWCLK" pad="16"/>
+<connect gate="G$1" pin="P108/SWDIO" pad="17"/>
+<connect gate="G$1" pin="P109" pad="18"/>
+<connect gate="G$1" pin="P110" pad="19"/>
+<connect gate="G$1" pin="P112" pad="20"/>
+<connect gate="G$1" pin="P103" pad="21"/>
+<connect gate="G$1" pin="P102" pad="22"/>
+<connect gate="G$1" pin="P101" pad="23"/>
+<connect gate="G$1" pin="P100" pad="24"/>
+<connect gate="G$1" pin="P015" pad="25"/>
+<connect gate="G$1" pin="P014" pad="26"/>
+<connect gate="G$1" pin="P013" pad="27"/>
+<connect gate="G$1" pin="P012" pad="28"/>
+<connect gate="G$1" pin="P009" pad="29"/>
+<connect gate="G$1" pin="P008" pad="30"/>
+<connect gate="G$1" pin="P011/VREFL0" pad="31"/>
+<connect gate="G$1" pin="P010/VREFH0" pad="32"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="Mouser_Part_Number" value="968-R7FA0E1073CFJAA0" constant="no"/>
+<attribute name="Mouser_Price-Stock" value="https://www.mouser.co.uk/ProductDetail/Renesas-Electronics/R7FA0E1073CFJAA0?qs=dbcCsuKDzFXyHMOxNyxu4w%3D%3D" constant="no"/>
+<attribute name="Manufacturer_Name" value="Renesas Electronics" constant="no"/>
+<attribute name="Manufacturer_Part_Number" value="R7FA0E1073CFJ#AA0" constant="no"/>
+<attribute name="Description" value="ARM Microcontrollers - MCU MCU RA0E1 ARM CM23 32MHZ 64K/12K LQFP32" constant="no"/>
+<attribute name="Height" value="1.7mm" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
+</drawing>
+</eagle>

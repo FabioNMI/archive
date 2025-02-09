@@ -1,0 +1,192 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "PS2801C-4-F3-A"
+   (description "NEC - PS2801C-4-F3-A - OPTOCOUPLER, 4X TR O/P, SSOP-16")
+   (family "ANA")
+   (package "SOIC127P700X230-16N")
+   (attribute "Datasheet Link" "https://componentsearchengine.com/Datasheets/2/PS2801C-4-F3-A.pdf")
+   (attribute "Geometry.Height" "2.3mm")
+   (attribute "Manufacturer_Name" "NEC")
+   (attribute "Manufacturer_Part_Number" "PS2801C-4-F3-A")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "PS2801C-4-F3-A")
+    (pin "ANODE_1" 1 PS)
+    (pin "CATHODE_1" 2 PS)
+    (pin "ANODE_2" 3 PS)
+    (pin "CATHODE_2" 4 PS)
+    (pin "ANODE_3" 5 PS)
+    (pin "CATHODE_3" 6 PS)
+    (pin "ANODE_4" 7 PS)
+    (pin "CATHODE_4" 8 PS)
+    (pin "COLLECTOR_4" 16 PS)
+    (pin "EMITTER_4" 15 PS)
+    (pin "COLLECTOR_3" 14 PS)
+    (pin "EMITTER_3" 13 PS)
+    (pin "COLLECTOR_2" 12 PS)
+    (pin "EMITTER_2" 11 PS)
+    (pin "COLLECTOR_1" 10 PS)
+    (pin "EMITTER_1" 9 PS)
+   )
+  )
+  (symbol "PS2801C-4-F3-A"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1500 100) (pt 1500 -800) (pt 200 -800) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -600) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -700) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 -600) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 -700) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOIC127P700X230-16N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -4.275 5.55)
+      (pt 4.275 5.55)
+      (pt 4.275 -5.55)
+      (pt -4.275 -5.55)
+      (pt -4.275 5.55))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.2 5.15)
+      (pt 2.2 5.15)
+      (pt 2.2 -5.15)
+      (pt -2.2 -5.15)
+      (pt -2.2 5.15))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -2.2 3.88)
+      (pt -0.93 5.15))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2.025 5.15)
+      (pt 2.025 5.15)
+      (pt 2.025 -5.15)
+      (pt -2.025 -5.15)
+      (pt -2.025 5.15))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -4.025 5.145)
+      (pt -2.375 5.145))))
+   (leg 1 (pt -3.2 4.445) (padstack 0))
+   (leg 2 (pt -3.2 3.175) (padstack 0))
+   (leg 3 (pt -3.2 1.905) (padstack 0))
+   (leg 4 (pt -3.2 0.635) (padstack 0))
+   (leg 5 (pt -3.2 -0.635) (padstack 0))
+   (leg 6 (pt -3.2 -1.905) (padstack 0))
+   (leg 7 (pt -3.2 -3.175) (padstack 0))
+   (leg 8 (pt -3.2 -4.445) (padstack 0))
+   (leg 9 (pt 3.2 -4.445) (padstack 0))
+   (leg 10 (pt 3.2 -3.175) (padstack 0))
+   (leg 11 (pt 3.2 -1.905) (padstack 0))
+   (leg 12 (pt 3.2 -0.635) (padstack 0))
+   (leg 13 (pt 3.2 0.635) (padstack 0))
+   (leg 14 (pt 3.2 1.905) (padstack 0))
+   (leg 15 (pt 3.2 3.175) (padstack 0))
+   (leg 16 (pt 3.2 4.445) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.7 1.65 0 0 0))
+   )
+   (model "PS2801C-4-F3-A.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

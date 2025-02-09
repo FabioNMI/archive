@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "R7FA0E1073CSC#CA0")(type "KiCad")(uri "${KIPRJMOD}/LIB_R7FA0E1073CSC#CA0/R7FA0E1073CSC#CA0/KiCad/R7FA0E1073CSC#CA0.kicad_sym")(options "")(descr ""))
+  (lib (name "ISL28005FH20Z-T7")(type "KiCad")(uri "${KIPRJMOD}/LIB_ISL28005FH20Z-T7/ISL28005FH20Z-T7/KiCad/ISL28005FH20Z-T7.kicad_sym")(options "")(descr ""))
+  (lib (name "PS2801C-4-F3-A")(type "KiCad")(uri "${KIPRJMOD}/LIB_PS2801C-4-F3-A/PS2801C-4-F3-A/KiCad/PS2801C-4-F3-A.kicad_sym")(options "")(descr ""))
+)

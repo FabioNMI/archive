@@ -1,0 +1,128 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "ISL28005FH20Z-T7"
+   (description "The ISL28005 is a micropower, uni-directional high-side and low-side current sense amplifier featuring a proprietary rail-to-rail input current sensing amplifier. The ISL28005 is ideal for high-side current sense applications where the sense voltage is usually much higher than the amplifier supply voltage. The device can be used to sense voltages as high as 28V when operating from a supply voltage as low as 2. 7V. The micropower ISL28005 consumes only 50A of supply current when operating from a 2. 7V to 28")
+   (family "ANA")
+   (package "SOT95P280X145-5N")
+   (attribute "Datasheet Link" "https://www.renesas.com/en-us/www/doc/datasheet/isl28005.pdf")
+   (attribute "Geometry.Height" "1.45mm")
+   (attribute "Manufacturer_Name" "Renesas Electronics")
+   (attribute "Manufacturer_Part_Number" "ISL28005FH20Z-T7")
+   (attribute "Mouser Part Number" "968-ISL28005FH20Z-T7")
+   (attribute "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=968-ISL28005FH20Z-T7")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "ISL28005FH20Z-T7")
+    (pin "GND" 1 PS)
+    (pin "OUT" 2 PS)
+    (pin "VCC" 3 PS)
+    (pin "RS+" 4 PS)
+    (pin "RS-" 5 PS)
+   )
+  )
+  (symbol "ISL28005FH20Z-T7"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 800 100) (pt 800 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOT95P280X145-5N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -2.05 1.7)
+      (pt 2.05 1.7)
+      (pt 2.05 -1.7)
+      (pt -2.05 -1.7)
+      (pt -2.05 1.7))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.8 1.45)
+      (pt 0.8 1.45)
+      (pt 0.8 -1.45)
+      (pt -0.8 -1.45)
+      (pt -0.8 1.45))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -0.8 0.5)
+      (pt 0.15 1.45))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -0.35 1.45)
+      (pt 0.35 1.45)
+      (pt 0.35 -1.45)
+      (pt -0.35 -1.45)
+      (pt -0.35 1.45))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.8 1.5)
+      (pt -0.7 1.5))))
+   (leg 1 (pt -1.25 0.95) (padstack 0))
+   (leg 2 (pt -1.25 0) (padstack 0))
+   (leg 3 (pt -1.25 -0.95) (padstack 0))
+   (leg 4 (pt 1.25 -0.95) (padstack 0))
+   (leg 5 (pt 1.25 0.95) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.6 1.1 0 0 0))
+   )
+   (model "ISL28005FH20Z-T7.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

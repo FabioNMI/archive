@@ -1,0 +1,9 @@
+Manufacturer=Renesas Electronics
+PartNumber=ISL28005FH20Z-T7
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=4.1
+Released=2019-12-27 12:00:17
+Downloaded=2024-07-31 00:39:35
+3D=Y

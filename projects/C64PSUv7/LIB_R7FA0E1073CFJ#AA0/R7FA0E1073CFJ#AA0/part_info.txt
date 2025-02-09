@@ -1,0 +1,9 @@
+Manufacturer=Renesas Electronics
+PartNumber=R7FA0E1073CFJ#AA0
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=32
+Version=2.1
+Released=2024-04-10 10:50:06
+Downloaded=2024-07-28 23:33:09
+3D=Y

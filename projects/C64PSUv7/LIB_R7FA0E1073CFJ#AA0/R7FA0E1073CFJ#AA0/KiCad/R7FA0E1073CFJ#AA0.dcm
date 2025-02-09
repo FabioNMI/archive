@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R7FA0E1073CFJ#AA0
+D ARM Microcontrollers - MCU MCU RA0E1 ARM CM23 32MHZ 64K/12K LQFP32
+K
+F https://www.renesas.com/us/en/products/microcontrollers-microprocessors/ra-cortex-m-mcus/ra0e1-32mhz-arm-cortex-m23-entry-level-ultra-low-power-general-purpose-microcontroller
+$ENDCMP
+#
+#End Doc Library

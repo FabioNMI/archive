@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PS2801C_4_F3_A'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "NEC", "PS2801C-4-F3-A" (!) = "", "SOIC127P700X230-16N", "Small Outline Packages", "", "", "NEC - PS2801C-4-F3-A - OPTOCOUPLER, 4X TR O/P, SSOP-16", "https://componentsearchengine.com/Datasheets/2/PS2801C-4-F3-A.pdf", "2.3 mm"
+END_PART
+
+END.

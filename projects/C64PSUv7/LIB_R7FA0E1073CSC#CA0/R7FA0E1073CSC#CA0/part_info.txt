@@ -1,0 +1,9 @@
+Manufacturer=Renesas Electronics
+PartNumber=R7FA0E1073CSC#CA0
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=20
+Version=2.1
+Released=2024-04-10 10:23:48
+Downloaded=2024-07-30 23:55:27
+3D=Y

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'R7FA0E1073CFJ#AA0'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Renesas Electronics", "R7FA0E1073CFJ#AA0" (!) = "", "QFP80P900X900X170-32N", "Quad Flat Packages", "968-R7FA0E1073CFJAA0", "https://www.mouser.co.uk/ProductDetail/Renesas-Electronics/R7FA0E1073CFJAA0?qs=dbcCsuKDzFXyHMOxNyxu4w%3D%3D", "ARM Microcontrollers - MCU MCU RA0E1 ARM CM23 32MHZ 64K/12K LQFP32", "https://www.renesas.com/us/en/products/microcontrollers-microprocessors/ra-cortex-m-mcus/ra0e1-32mhz-arm-cortex-m23-entry-level-ultra-low-power-general-purpose-microcontroller", "1.7 mm"
+END_PART
+
+END.

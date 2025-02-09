@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "PS2801C-4-F3-A"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-12-06-12:26:34)
+    (mountForm default
+        (footprintRef "SOIC127P700X230-16N")
+        (spec "System")
+    )
+)

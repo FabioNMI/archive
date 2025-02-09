@@ -1,0 +1,9 @@
+Manufacturer=NEC
+PartNumber=PS2801C-4-F3-A
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=16
+Version=2.1
+Released=2017-02-22 09:26:01
+Downloaded=2024-11-19 13:30:57
+3D=Y

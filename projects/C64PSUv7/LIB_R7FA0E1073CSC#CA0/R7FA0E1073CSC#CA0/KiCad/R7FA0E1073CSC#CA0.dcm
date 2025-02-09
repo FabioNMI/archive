@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R7FA0E1073CSC#CA0
+D The RA0E1 group is a basic, simple MCU in the entry line of the RA0 series, offering excellent cost effectiveness and ultra-low power consumption. It delivers up to 32MHz of CPU performance using an Arm Cortex-M23 core with up to 64KB of embedded flash memory and a wide supply voltage range from 1.6V to 5.5V. The RA0 series is ideal for cost-sensitive applications such as low power and lower cost for consumer electronics, system control for small appliances, industrial system control and building automation
+K
+F https://www.renesas.com/us/en/products/microcontrollers-microprocessors/ra-cortex-m-mcus/ra0e1-32mhz-arm-cortex-m23-entry-level-ultra-low-power-general-purpose-microcontroller
+$ENDCMP
+#
+#End Doc Library

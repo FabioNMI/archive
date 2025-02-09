@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "R7FA0E1073CSC_CA0"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-04-10-10:23:48)
+    (mountForm default
+        (footprintRef "SOP65P640X145-20N")
+        (spec "System")
+    )
+)
