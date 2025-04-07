@@ -1,0 +1,246 @@
+** PCI Audio Drivers Release Note **
+
+ver 2.11  06/24/99
+1. CMI8738 drivers for Win95/98 update to ver 4.06.1069.
+   (details refer to 8738note.txt in \W95-98\drv).
+
+ver 2.10  06/05/99'
+1. CMI8738 drivers for Win95/98 update to ver 4.06.1068.
+   (details refer to 8738note.txt in \W95-98\drv).
+2. Win95/98 applications update to v1.2.
+   (details refer to release.txt in \W95-98\app).
+
+ver 2.09  06/04/99'
+1. CMI8738 drivers for Win95/98 update to ver 4.06.1067.
+   (details refer to 8738note.txt in \W95-98\drv).
+2. DOS initial program update to v1.8 for accepting IRQ3, Joystick
+   and MPU-401 MIDI device can disable by parameters.
+3. WDM drivers update to v3.5 for supporting Win2000 beta 3 system.
+4. Audio environment setting program update to v1.8 for adding wave
+   channel output selection.
+
+ver 2.08  05/25/99'
+1. CMI8738 drivers for Win95/98 update to ver 4.06.1064.
+   (details refer to 8738note.txt in \W95-98\drv).
+2. CMI8338-031 install INF file update for file name changed.
+
+ver 2.07  05/20/99'
+1. Windows audio applications updated.
+   (details refer to release.txt in \W95-98\app).
+
+ver 2.06  05/12/99'
+1. CMI8738 drivers for Win95/98 update to ver 4.06.1062.
+   (details refer to 8738note.txt in \W95-98\drv).
+2. CMI8338 drivers for Win95/98 update to ver 4.06.1063.
+   (details refer to 8338note.txt in \W95-98\drv).
+3. Enviroments setting program add remark of SPDIF-out level controls.
+4. Win95/98 uninstall program modified for driver files name changing.
+
+
+ver 2.05  05/07/99'
+1. CMI8738 drivers for Win95/98 update to ver 4.06.1061.
+   (details refer to 8738note.txt in \W95-98\drv).
+2. Enviroments setting program add SPDIF in/out controls.
+
+ver 2.04  05/03/99'
+1. Fix joystick drivers issue.
+2. DOS initial program update to v1.7 for PCI bus number detection.
+
+ver 2.03  04/30/99'
+
+1. CMI8738 drivers for Win95/98 update to ver 4.06.1059.
+   (details refer to 8738note.txt in \W95-98\drv).
+2. CMI8338 drivers for Win95/98 update to ver 4.06.1060.
+   (details refer to 8738note.txt in \W95-98\drv).
+3. Win95/98 drivers uninstall program update to v1.5.
+   (Remove all of driver files)
+
+ver 2.02  04/27/99'
+
+1. CMI8738 drivers for Win95/98 update to ver 4.06.1058.
+   (details refer to 8738note.txt in \W95-98\drv).
+2. CMI8738 drivers for NT4.0 update to v2.05.
+
+ver 2.01  04/21/99'
+
+1. CMI8338 drivers for Win95/98 update to ver 4.06.1056.
+   (details refer to release.txt in \W95-98\drv\8338).
+2. Add CMI8738 drivers for Win95/98 ver 4.06.1057.
+   (details refer to release.txt in \W95-98\drv\8738).
+3. DOS drivers add EPIC DOS game patch program.
+
+ver 2.0   04/13/99'
+
+1. CMI8338 drivers for Win95/98 update to ver 4.06.1055.
+   (details refer to release.txt in \W95-98\drv\8338).
+2. Add CMI8738 drivers for Win95/98 ver 4.05.1051.
+   (details refer to release.txt in \W95-98\drv\8738).
+3. Win95/98 drivers uninstall program modified for CMI8738.
+4. Win95/98 applications C3DX setting program modified for CMI8738.
+5. Add CMI8738 drivers for WNT4.0 ver 2.02.
+6. WDM drivers fit CMI8738 chip.
+7. DOS drivers updated.
+
+
+ver 1.99g   04/02/99'
+
+1. W95/98 drivers update to ver 4.05.1052.
+   (details refer to release.txt in \W95-98\drv).
+2. Add HRTF 3D sound CPU utilization setting program for W95/98.
+3. DOS initial program and mixer updated.
+
+
+ver 1.99f   03/23/99'
+
+1. W95/98 drivers modified (ver 4.05.1050).
+   (details refer to release.txt in \W95-98\drv).
+
+
+ver 1.99e   03/20/99'
+
+1. W95/98 drivers update to ver 4.05.1050.
+   (details refer to release.txt in \W95-98\drv).
+2. DirectX drivers setup update to DirectX 6.1.
+3. NT4.0 drivers update to ver 2.01.
+   (details refer to release.txt in \NT40\drv).
+4. Add WDM drivers ver 2.2 for Windows 2000 and Windows 98.
+
+
+ver 1.99d   02/09/99'
+
+1. W95/98 drivers update to ver 4.10.00.0144.
+   (details refer to release.txt in \W95-98\drv).
+2. NT4.0 drivers update to ver 1.13.
+   (details refer to release.txt in \NT40\drv).
+
+
+ver 1.99c   02/05/99'
+
+1. W95/98 drivers update to ver 4.10.00.0141.
+   (details refer to release.txt in \W95-98\drv).
+
+
+ver 1.99b   02/02/99'
+
+1. W95/98 drivers update to ver 4.10.00.0140.
+   (details refer to release.txt in \W95-98\drv).
+
+
+ver 1.99a   01/29/99'
+
+1. W95/98 drivers update to ver 4.10.00.0139.
+   (details refer to release.txt in \W95-98\drv).
+2. W95/98 drivers uninstall program changed due to drivers modified.
+
+
+ver 1.99    01/07/99'
+
+1. W95/98 drivers update to ver 4.10.00.0136.
+   (details refer to release.txt in \W95-98\drv).
+
+
+ver 1.98    12/31/98'
+
+1. W95/98 drivers update to ver 4.10.00.0135.
+   (details refer to release.txt in \W95-98\drv).
+
+
+ver 1.97    12/21/98'
+
+1. W95/98 drivers update to ver 4.10.00.0134.
+   (details refer to release.txt in \W95-98\drv).
+
+
+ver 1.96    12/18/98'
+
+1. W95/98 drivers update to ver 4.10.00.0133.
+   (details refer to release.txt in \W95-98\drv).
+
+
+ver 1.95    12/17/98'
+
+1. Merge Windows 95 and 98 drivers to one.
+2. W95/98 drivers update to ver 4.10.00.0132.
+   (details refer to release.txt in \W95-98\drv).
+3. Windows audio rack mixer remove master and wave 
+   volume balance control.
+
+
+ver 1.94    12/15/98'
+
+1. Separate Windows drivers into Win95 and Win98 drivers.
+2. W95 drivers update to ver 4.10.00.0130.
+   (details refer to release.txt in \W95-98\w95drv). 
+2. W98 drivers update to ver 4.10.00.0131.
+   (details refer to release.txt in \W95-98\w98drv). 
+
+
+ver 1.93    12/12/98'
+
+1. W95/98 drivers update to ver 4.10.00.0129.
+   (details refer to release.txt in \W95-98\drv).
+
+
+ver 1.92    12/11/98'
+
+1. W95/98 drivers update to ver 4.10.00.0128.
+   (details refer to release.txt in \W95-98\drv).
+2. Modify audio rack wave player/recorder to supports record format
+   from 8KHz to 48KHz.
+
+
+ver 1.91    12/10/98'
+
+1. W95/98 drivers update to ver 4.10.00.0127.
+   (details refer to release.txt in \W95-98\drv).
+
+
+ver 1.9     12/08/98'
+
+1. W95/98 drivers update to ver 4.10.00.0126.
+   (details refer to release.txt in \W95-98\drv).
+2. Modify audio rack mixer and surround sound demo program
+   for driver mixer part changed. 
+
+
+ver 1.8     12/03/98'
+
+1. W95/98 drivers update to ver 4.10.00.0125.
+   (details refer to release.txt in \W95-98\drv).
+
+
+ver 1.7     12/01/98'
+
+1. W95/98 DOS mode MPU-401 emulator modify for not load library 
+   when driver initial.
+
+
+ver 1.6     11/30/98'
+
+1. W95/98 drivers update to ver 4.10.00.0124.
+   (details refer to release.txt in \W95-98\drv).
+
+
+ver 1.5     11/23/98'
+
+1. Win95/98 surround sound demo program modify for new mixer.
+2. C3D HRTF positional audio demo program Helicopter modify
+   for bugs in DX6.0.
+
+
+ver 1.4     11/17/98'
+
+1. W95/98 drivers update to ver 4.10.00.0122
+   (details refer to release.txt in \W95-98\drv).
+2. W95/98 applications - mixer updated for surround 
+   & SPDIF-in moving in drivers.
+3. Add user manual.
+
+
+ver 1.3     11/09/98'
+
+1. W95/98 drivers update to ver 4.10.00.0120.
+   (details refer to release.txt in \W95-98\drv).
+2. W95/98 applications - mixer updated for unsynchronous 
+   with default mixer when 4 SPKs enabled.
+3. WinNT4.0 applications - CD player updated.
