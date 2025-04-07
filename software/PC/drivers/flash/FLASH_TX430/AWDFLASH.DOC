@@ -1,0 +1,40 @@
+;----------------------------------------------------------------------------
+;Rev	Date	 Name	Description
+;----------------------------------------------------------------------------
+;R10	05/28/96 AVN	Added Safely Return to DOS if Chip Erase/Program Fail.
+;R09	05/28/96 AVN	Added AMD28F010 Support PnP Function.
+;R08	04/30/96 AVN	Added DMI Support, And Update Version to 5.2B
+;			 A : How To Cognize DMI BIOS
+;				1. About System
+;			 	   Call System DMI Function 50h For Check
+;				   DMI BIOS
+;				2. Flash File
+;				   Check FC000h, If Continual in 4K Range With
+;				   Value 0FFh and FB000h Have Decompress Code
+;				   => DMI BIOS.
+;			 B : If DMI BIOS When Save BIOS, Should Fill in FC000h
+;			     With 0FFh For 4K.
+;			 C : When Flash BIOS if
+;				   ROM BIOS	File BIOS
+;				1. DMI		DMI		: Don't Flash FC000h
+;				2. NonDMI	DMI		: Flash FC000h
+;				3. DMI		NonDMI		: Flash FC000h
+;				4. NonDMI	NonDMI		: Flash FC000h
+
+;R06A	03/28/96 AVN	Fixed AWDFLASH.EXE Backward Compatible and new bios
+;			Compatible.
+;R07	03/27/96 AVN	Added ATMEL 29C010A Flash ROM, And Change VER -> 5.2
+;R06	03/27/96 AVN	Fixed FAR CALL EXTRACT_COMPRESS (EXPAND) Return Fail.
+;R05A	03/11/96 AVN	Modify Version 5.0 -> 5.1 For Added INTEL 8K Bootblock
+;			Flash Support.
+;R04A	02/27/96 AVN	There is Coding Error, And Take out Now First For user.
+;R05	02/27/96 AVN	Added Allways Program FE000h-FFFFFh For INTEL 28f001-BXT.
+;R04	02/01/96 AVN	Fixed Noncompress (128K), Copy Flash Hook SEG Error.
+;R03	10/19/95 AVN	Added MXIC 28F1000P 16K Block PnP Support.
+;R02	10/19/95 AVN	For longger BIOS Name String.
+;R01	09/19/95 HTR	Fixed system hang when utility running, if NCR 810
+;			installed.  Because NCR 810 BIOS will use 3K system
+;			RAM, when we decompress system BIOS this will destroy.
+;R00	06/01/95 AVN	Rewrite Awdflash.asm
+
+

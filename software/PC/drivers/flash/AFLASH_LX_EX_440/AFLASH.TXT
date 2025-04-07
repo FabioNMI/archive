@@ -1,0 +1,62 @@
+Recommended Flash EPROM (BIOS) Management & Updating Procedures
+============================================================================
+New Features of AFLASH:
+1. Support 1M or 2M Bits Flash EPROM.
+2. Compare  "BIOS Version",  "Chipset and Model"  and  "Date of BIOS Built" 
+   between the current and updated BIOS. If any of above items doesn't match
+   , it will give you the warning message.  
+
+Upon first use of the computer system:
+1. Create a bootable system floppy diskette by typing [FORMAT A:/S] from the
+   DOS prompt without creating "AUTOEXEC.BAT" and "CONFIG.SYS" files.
+
+2. Copy AFLASH.EXE to your new diskette.
+
+3. Run  AFLASH.EXE from your new diskette and select option 1  "Save Current
+   BIOS To File."  Please Enter File Name to Save:(Current File).
+
+Updating BIOS procedures (only when necessary):
+-> IMPORTANT:  Flash Memory Type maybe  "AMD Am29F002NT".  If  "UNKNOWN"  is 
+   displayed after "Flash Memory:" then this ROM chip is not programmable or
+   not supported with the PnP BIOS and therefore cannot be programmed by the
+   Flash Memory Writer.
+
+   AFLASH will check the file and flash type whether parameter block matches
+   or not 8K4K4K and 16K8K8K.
+
+1. Download an updated ASUS BIOS file from the internet (WWW), FTP, or a BBS
+   (Bulletin Board Service) and save to the diskette you created above.  See
+   ASUS CONTACT INFORMATION on Page II of the User's Manual for more details.
+
+2. Turn off your computer and open the system cabinet to Enable  "Boot Block 
+   Programming" jumper as shown in section III of the User's Manual.
+
+3. Boot from the floppy diskette you created above.  
+
+4. At the "A:\" prompt, type: [AFLASH] and then the <Enter> key.
+
+5. Enter 2 "Update BIOS Including Boot Block and ESCD" from the Main Menu.
+
+6. The  program  displays  a second screen prompting you for the name of the
+   BIOS file.  Type in the complete file name and extension of the new BIOS,
+   and  then  press the <Enter> key.  The utility then uploads the BIOS file
+   from disk.
+
+   WARNING: If you encounter problems while downloading the new BIOS, DO NOT
+   turn off your system since this might prevent your system from booting up.
+   Just  repeat the process,  and if the problem still persists,  upload the
+   original  BIOS  file you saved to disk above.  If the Flash Memory Writer
+   utility was not able to successfully download a complete BIOS file,  your
+   system may not be able to boot up. If this happens, your system will need
+   service from your vendor.
+
+7. After  successfully downloading the new BIOS file,  exit the Flash Memory
+   Writer utility and then turn off your system.  Set the jumper back to its
+   default setting of Programming "Disabled or Protected."
+
+8. Turn on your computer and hold down the <Delete> key to enter BIOS setup.
+   You must select "Setup Default" to affect the new BIOS,  then you may set
+   other items from the Main Menu.
+
+
+AFLASH.TXT 4/16/98
