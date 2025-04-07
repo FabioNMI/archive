@@ -1,0 +1,11 @@
+WINCheckIt 4.0
+Released in 1996 by TouchStone Software Corporation
+For Windows 3.1/95
+
+Wincheckit was a popular diagnostics and system cleaning utility for
+Microsoft Windows 3.1.  It diagnoses issues with CMOS/BIOS setup,
+finds IRQ problems, tests I/O devices and memory, benchmarks system 
+performance, removes unused application files, and fixes system 
+files.
+
+S/N: a5-171754

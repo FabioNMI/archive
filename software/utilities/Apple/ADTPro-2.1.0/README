@@ -1,0 +1,94 @@
+Welcome to ADTPro!
+------------------
+
+Detailed setup instructions are available on the web:
+http://adtpro.com
+
+The ADTPro distribution comes as a single file named
+something similar to ADTPro-v.r.m with an extension
+particular to the target platform:
+
+  * ADTPro-v.r.m.tar.gz - Linux
+  * ADTPro-v.r.m.dmg - Mac OSX
+  * ADTPro-v.r.m.zip - Windows
+
+Your distribution should contain most of these, depending on platform:
+
+ * ADTPro-v.r.m.app       - OSX server application
+ * adtpro.command         - OSX server startup command file
+ * adtpro.bat             - Windows server startup batch file
+ * adtpro.sh              - Linux/Solaris server startup
+                            shell script
+ * ac.sh                  - AppleCommander command line shell script invoker
+ * ac.bat                 - AppleCommander command line batch file invoker
+ * LICENSE                - The GNU Public License file
+ * README                 - The info you're looking at now
+ * disks/ADTPRO-v.r.m.DSK - ADTPro ProDOS client-side software
+                            (an Apple 140K disk image)
+ * disks/ADTPROSOS-v.r.m.DSK - ADTPro SOS client-side software
+                            (an Apple 140K disk image)
+ * disks/ADTPRO-v.r.m.PO  - ADTPro client-side software
+                            (an Apple 800K disk image)
+ * disks/ADTvr.DSK        - An enhanced legacy Apple DOS ADT
+                            client, capable of running on the
+                            Super Serial hardware, the IIgs
+                            serial (modem) port, and the
+                            IIc/Laser 128 modem port
+ * disks/VDRIVE-v.r.m.DSK - Virtual drive driver support for Apple II and ///
+                            (an Apple 140K disk image)
+ * disks/Virtual[2].po    - Blank example virtual disks
+                            (Apple 800K disk images)
+ * lib/ADTPro-v.r.m.jar   - ADTPro server-side software
+                            (a Java .jar file)
+ * lib/jssc/...           - Java serial library files
+ * lib/AppleCommander/AppleCommander-v.r.m.p-ac.jar
+                          - AppleCommander support Jar
+
+In all cases above, v.r.m is replaced with the version, release 
+and modification numbers of the current distribution.
+
+To get started, you will need a Java installation you can call
+from the host computer's command line. This means that if you type
+the command "java -version" from a terminal window it ought to
+produce output other than complaints. One place to get a downloadable
+Java distribution is from Oracle JRE download. When
+you get there, look for a "Java Runtime Environment (JRE)" download
+for your platform and install it.
+
+After downloading the ADTPro distribution file to your desktop,
+unpack it using your operating system's native facilities. You can
+either run the server startup program from the command line or, in
+Windows and OSX, double-click on the icon of the startup program:
+
+Linux:   adtpro.sh
+OSX:     ADTPro-v.r.m.app or adtpro.command
+Windows: adtpro.bat
+
+You can modify the startup program to suit your environment.
+Especially for the Unix variants - it may need a little tweaking to
+get the correct native serial library connected.
+
+When starting, you will see the following information echoed back
+on your console as the GUI is coming up:
+
+   ADTPro Server version v.r.m
+
+When the ADTPro GUI comes up, click one of the three connection
+buttons to choose your communications type.
+
+If you currently use the DOS ADT program, select the Serial button.
+You can transfer the ADTPro-v.r.m.dsk file to your apple using the
+DOS ADT client and ADTPro server. Reboot your Apple with the new
+ADTPro client disk in the disk drive and you're ready to go!
+
+If you aren't already using DOS ADT, or if you don't have any
+software for your Apple yet, there's lots of help available. Start
+at ADTPro's bootstrapping page to get the software transferred to
+your Apple.
+
+Please report troubles, bugs, requests for help, etc. using the 
+project's github issues tracker:
+
+https://github.com/ADTPro/adtpro/issues
+
+Good luck - and have fun!
