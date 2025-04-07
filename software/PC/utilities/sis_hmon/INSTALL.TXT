@@ -1,0 +1,41 @@
+*****************************************************************
+                   SiS Monitor Install Notes
+*****************************************************************
+
+    Now this utility can support SiS 5591/5600/530/620 series chipset on
+Window 95/98, Window NT 4.0/5.0 platform.
+    SiS Monitor provides a graphic interface to monitor Fan Speed,Chip/CPU
+temperature, Voltage level and provides alarms for background monitoring.
+
+
+
+How to install/uninstall ?
+
+    . install   => run "setup.exe" in source directory.
+
+        ( note: It is better to uninstall the old version ( if you have )
+                before you install the new SiS System Hardware Monitor version.
+                Otherwise, the setup procedure maybe fail during the
+                installation phase )
+
+    . uninstall => 1. Run "uninstall.exe" in installed directory
+                      ( ...\Program Files\SiS Monitor\uninstall.exe )
+                   2. From [Control Panel] / [Add/Remove] / [SiS monitor uninstallation]
+
+
+
+FILES:   INSTALL.TXT,
+         SETUP.EXE,
+         SETUP.INS,
+         SISMON.IZ,
+         UNINST.INS,
+         _INST32I.EX_,
+         _SETUP.LIB,
+         _SETUP.DLL,
+         VENDOR.INI
+
+
+
+
+
+

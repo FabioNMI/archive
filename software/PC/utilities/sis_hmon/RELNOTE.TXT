@@ -1,0 +1,82 @@
+
+SiS Monitor Release Notes   12/22/1998
+
+(1) The current SiS Monitor release version is 2.21b
+
+
+(2) Supporting Products:
+
+    SiS 5591/5600/620/530 + SiS 5595A2/5595B2
+
+
+(3) The versions of different OS are as follows :
+
+    Windows 95
+    Windows 98
+    Windows NT 4.0
+    Windows NT 5.0
+
+(4) The following parts have been changed :
+
+    [ v2.21 -> v2.21b ]
+
+        (1) Fix the unexpected fan warning message when window startup .
+
+    [ v2.19 -> v2.21 ]
+
+        (1) Fix the problem that the package can't be installed from CD-ROM.
+                ( pcode.exe is obsolete )
+        (2) Fix the warning message accuracy
+
+
+    [ v2.18 -> v2.19 ]
+
+        (1) Fix the Error Message Box display information problem
+
+    [ v2.18 -> v2.19 ]
+
+        (1) Fix the bug of reading thermistor temperature
+
+    [ v2.17 -> v2.18 ]
+
+        (1) Support new thermistor NTC-103AT-2
+        (2) Add a ThermistorPullHighRegister factor into vendor.ini to control
+            the accuracy of thermistor
+        (3) Give a vendor.ini document : readme.txt
+        (4) Give some vendor.ini samples ( reference readme.txt )
+
+    [ v2.16 -> v2.17 ]
+
+        (1) Support new thermistor NTC-103JT
+
+    [ v2.15 -> v2.16 ]
+
+        (1) Modify [Visable] menu according to the vendor setting description
+        (2) Add linear interpolation algorithm to thermistor detection
+        (3) Support new thermistor NTC-103JT
+
+
+    [ v2.12 -> v2.15 ]
+
+        (1) Support SiS 620/530 Chipset and SiS 5595B
+        (2) Support external Diode temperature sensor
+        (3) Support external Thmermistor temperatore sensor NTC-103KT-1608-1P
+                ( = 10KC15-1608-1P )
+
+    [ v2.11 -> v2.12 ]
+
+        (1) improve the initial time delay and influence when Boot sound playing
+
+    [ v2.10 -> v2.11 ]
+
+        (1) Fix the bug of setting data lose if system reboot
+        (2) Fix the Audio influence problem when system start up
+            on window 95/osr2
+
+
+    [ v2.00 -> v2.10 ]
+
+        (1) Support SiS5600 chipset
+
+
+

@@ -1,0 +1,9 @@
+Revisions
+
+1-2win95 directory 
+This directory contains the Hardware Monitor Program that can be used for both 
+the 83781 and 83782 Winbond ICs. It is suitable for Windows 95 / 98 only.
+
+781winNT directory
+This directory contains the Hardware Monitor Program that is for the 83781. It is 
+suitable for windows NT only.
