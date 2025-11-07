@@ -1,0 +1,17 @@
+Tandy DeskMate 1.01 (1984)
+Released in 1984 by Tandy Corporation
+For the Tandy 1000 series computer
+
+This is the original Tandy DeskMate published for the first Tandy
+1000 computer. It is an integrated office environment and desktop
+shell, that includes word processing, spreadsheet, database,
+telecommunications, calendar, and mail functionality.
+
+Unlike later versions of DeskMate, this version is entirely text-mode
+based.
+
+This software will load and run on IBM PC clone hardware and
+emulators, but it is designed for use with the Tandy 1000 keyboard
+layout.
+
+Contains one 360K floppy disk images in raw/Winimage format. 
