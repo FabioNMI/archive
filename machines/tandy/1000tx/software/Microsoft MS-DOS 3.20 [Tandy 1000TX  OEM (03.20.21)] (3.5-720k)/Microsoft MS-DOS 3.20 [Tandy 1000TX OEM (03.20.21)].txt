@@ -1,0 +1,13 @@
+Microsoft MS-DOS 3.20 [Tandy 1000TX OEM (03.20.21)]
+Released in 1987 by Tandy/Microsoft
+ONLY for Tandy 1000 series computers
+
+This is a 720k disk image in raw format.  The disk should be labeled:
+
+disk01      MS-DOS/GW-Basic 3.2.21
+
+Tandy DOS 3.2 is usable on other 1000-series models (it will not run
+on a non-Tandy machine).
+
+This was bundled with the Tandy 1000 TX, a 286 based machine with a 
+3.5" floppy drive.

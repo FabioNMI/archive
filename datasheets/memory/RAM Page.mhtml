@@ -1,0 +1,1073 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://pcexpress.theolddub.com/thetoolbag/informationgrabbag/rampage.htm
+Subject: RAM Page
+Date: Tue, 9 Jul 2024 08:26:08 -0400
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--F7SNffRNQ7HJgG83V1v3VooQWibVKKhHQEHJ7zRRlo----"
+
+
+------MultipartBoundary--F7SNffRNQ7HJgG83V1v3VooQWibVKKhHQEHJ7zRRlo----
+Content-Type: text/html
+Content-ID: <frame-FF3D1FDAABA3813DB8250EDF521E50EB@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://pcexpress.theolddub.com/thetoolbag/informationgrabbag/rampage.htm
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dwindows-1252">
+   <title>RAM Page</title>
+</head>
+<body bgcolor=3D"#FFFFFF" link=3D"#009999" vlink=3D"#990000">
+<center><b><font size=3D"+2">RAM Page</font></b></center>
+<p><img src=3D"http://pcexpress.theolddub.com/images/redbar.gif" height=3D"=
+7" width=3D"100%" align=3D"ABSCENTER">
+</p><p><b>How to read the "Product Name" for RAM modules:</b>
+<br><font size=3D"+0">Part #10100, 1 x 36-60 (12),(read as: "one by thirty-=
+six,
+sixty"), this module is one mega<b>bit</b> (1), by (x), thirty-six bits
+(36), seventy two pin, parity SIMM with an access time of sixty nanoseconds
+(-60), and twelve chips on the circuit board (12)*. This is a standard
+four mega<b>byte</b>, Mb, (RAM qty column), parity SIMM.</font>
+</p><p><font size=3D"+0">Parity SIMMs have either 9 or 36 bits, ( x9 or x36=
+). Non-parity
+SIMMs have 8 or 32 bits, (x8 or x32). Eight and nine bit SIMMs, (x8, x9),
+have 30 pins. Thirty-two and thirty-six bit SIMMs, (x32, x36), have 72
+pins. Sixty-four bit DIMMs, (x64), have 168 pins.</font>
+</p><p><font size=3D"+0">* <i>Note</i>: If the number in parenthesis is acc=
+ompanied
+by the "Mb" symbol, the number will be representing the capacity of the
+module.</font>
+<br><font size=3D"+0">Example: Part #15410 DIMM 8x64-60 (64Mb) is a sixty-f=
+our
+megabyte (64Mb) module.</font>
+<br><img src=3D"http://pcexpress.theolddub.com/images/redbar.gif" height=3D=
+"7" width=3D"100%" align=3D"ABSCENTER">
+</p><p><b>Now, if you know what "type" you require, what part do you need?<=
+/b>
+<br>Here's how: Find the point on the table where the "type", (x8,x9,x32,x3=
+6,x64),
+intersects with the "size" ,(1Mb,2Mb,etc.), to get the description of the
+part you need. EDO SIMMs are usually x32.
+<br>&nbsp;
+<table border=3D"2" width=3D"100%">
+<tbody><tr>
+<th bgcolor=3D"#33CC99"><b>Size&nbsp;</b></th>
+
+<th colspan=3D"5" bgcolor=3D"#33CC99">Type&nbsp;</th>
+</tr>
+
+<tr>
+<th bgcolor=3D"#33CC99">&nbsp;</th>
+
+<th colspan=3D"3" width=3D"45%" bgcolor=3D"#33CC99">Non - Parity&nbsp;</th>
+
+<th colspan=3D"2" width=3D"45%" bgcolor=3D"#33CC99">Parity&nbsp;</th>
+</tr>
+
+<tr>
+<th width=3D"10%" bgcolor=3D"#33CC99">&nbsp;</th>
+
+<th width=3D"18%" bgcolor=3D"#33CC99"><font size=3D"-1">x8, 30 pin&nbsp;</f=
+ont></th>
+
+<th width=3D"18%" bgcolor=3D"#33CC99"><font size=3D"-1">x32, 72 pin&nbsp;</=
+font></th>
+
+<th width=3D"18%" bgcolor=3D"#33CC99"><font size=3D"-1">x64, 168 pin&nbsp;<=
+/font></th>
+
+<th width=3D"18%" bgcolor=3D"#33CC99"><font size=3D"-1">x9, 30 pin&nbsp;</f=
+ont></th>
+
+<th width=3D"18%" bgcolor=3D"#33CC99"><font size=3D"-1">x36, 72 pin&nbsp;</=
+font></th>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">1Mb&nbsp;</fo=
+nt></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">1x8&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">256x32&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">-&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">1x9&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">256x36&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">2Mb&nbsp;</fo=
+nt></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">2x8&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">512x32&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">-&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">-&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">512x36&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">4Mb&nbsp;</fo=
+nt></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">4x8&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">1x32&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">-&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">4x9&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">1x36&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">8Mb&nbsp;</fo=
+nt></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">8x8&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">2x32&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">1x64&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">-&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">2x36&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">16Mb&nbsp;</f=
+ont></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">16x8&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">4x32&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">2x64&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">16x9&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">4x36&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">32Mb&nbsp;</f=
+ont></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">-&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">8x32&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">4x64&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">-&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">8x36&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">64Mb&nbsp;</f=
+ont></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">-&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">-&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">8x64&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">-&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">-&nbsp;</font></td>
+</tr>
+</tbody></table>
+
+<br>&nbsp;
+</p><p><a name=3D"id"></a>What do the little numbers on the black chip mean=
+?
+<br>The numbers identify the type and size of that particular chip. The
+following is a list of part numbers used by various manufacturers.
+</p><center>
+<p><a name=3D"DRAM"></a><b><font size=3D"+1">DRAM Table (1 of 2)</font></b>
+<br><img src=3D"http://pcexpress.theolddub.com/images/redbar.gif" height=3D=
+"7" width=3D"100%" align=3D"ABSCENTER"></p></center>
+&nbsp;
+<center><table border=3D"2" width=3D"100%">
+<tbody><tr>
+<th bgcolor=3D"#33CC99"><b><font size=3D"+0">Organization/</font></b>
+<br><b><font size=3D"+0">Density&nbsp;</font></b></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">Fujitsu</font>
+<br><font size=3D"+0">MB&nbsp;</font></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">Goldstar</font>
+<br><font size=3D"+0">GM&nbsp;</font></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">Hitachi</font>
+<br><font size=3D"+0">HM&nbsp;</font></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">Hyundai</font>
+<br><font size=3D"+0">HY&nbsp;</font></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">Micron</font>
+<br><font size=3D"+0">MT&nbsp;</font></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">Mitsubishi</font>
+<br><font size=3D"+0">M5M&nbsp;</font></th>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">256kx1 (256k)=
+&nbsp;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">81256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">71C256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">51256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">53C256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">1256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">4256&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">1Mx1 (1M)&nbs=
+p;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">81C1000&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">71C1000&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">511000&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">531000&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">4C1024&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">41000&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">256kx4 (1M)&n=
+bsp;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">81C4256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">71C4256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">514256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">534256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">4C4256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">44256&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">1Mx4 (4M)&nbs=
+p;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">814400&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">71C4400&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">514400&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">514400&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">4C4001&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">44400&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">4Mx1 (4M)&nbs=
+p;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">814100&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">71C4100&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">514100&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">514100&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">4C1004&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">44100&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">256kx16 (4M)&=
+nbsp;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">814260&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">71C4260&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">514260&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">514260&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">4C16257&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">44260&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">512kx8 (4M)&n=
+bsp;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">814800&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">71C4800&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">514800&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">514800&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">4C8512&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">44800&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">16Mx1 (16M)&n=
+bsp;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">8116100&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">71C16100</font>
+<br><font size=3D"-1">71C17100&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">5116100&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">5116100&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">4C16M1&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">416100&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">4Mx4 (16M)&nb=
+sp;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">8116400&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">71C16401</font>
+<br><font size=3D"-1">71C17401&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">5116400&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">5116400&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">4C4M4&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">416400&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">1Mx16 (16M)&n=
+bsp;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">8116160&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">N/A&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">5116160</font>
+<br><font size=3D"-1">5118160&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">5116160</font>
+<br><font size=3D"-1">5118160&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">4LC1M16C3&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">416160</font>
+<br><font size=3D"-1">418160&nbsp;</font></td>
+</tr>
+</tbody></table></center>
+
+<center>
+<p><br><b><font size=3D"+1">DRAM Table (2 of 2)</font></b>
+<br><img src=3D"http://pcexpress.theolddub.com/images/redbar.gif" height=3D=
+"7" width=3D"100%" align=3D"ABSCENTER"></p></center>
+&nbsp;
+<center><table border=3D"2" width=3D"100%">
+<tbody><tr>
+<th bgcolor=3D"#33CC99"><b><font size=3D"+0">Organization/</font></b>
+<br><b><font size=3D"+0">Density&nbsp;</font></b></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">Motorola</font>
+<br><font size=3D"+0">MCM&nbsp;</font></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">NEC</font>
+<br><font size=3D"+0">UPD&nbsp;</font></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">Oki</font>
+<br><font size=3D"+0">MSM&nbsp;</font></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">Samsung</font>
+<br><font size=3D"+0">KM&nbsp;</font></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">Texas Inst.</font>
+<br><font size=3D"+0">TI&nbsp;</font></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">Toshiba</font>
+<br><font size=3D"+0">TC&nbsp;</font></th>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">256kx1 (256k)=
+&nbsp;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">6256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">41256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">41256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">41256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">4256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">41256&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">1Mx1 (1M)&nbs=
+p;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">511000&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">421000&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">511000&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">41C1000&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">4C1024&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">511000&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">256kx4 (1M)&n=
+bsp;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">514256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">424256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">514256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">44C256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">44C256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">514256&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">1Mx4 (4M)&nbs=
+p;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">514400&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">424400&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">514400&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">44C1000&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">44400&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">514400&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">4Mx1 (4M)&nbs=
+p;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">514100&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">424100&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">514100&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">41C4000&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">44100&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">514100&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">256kx16 (4M)&=
+nbsp;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">54260&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">424260&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">514260&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">416C256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">45160&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">514260&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">512kx8 (4M)&n=
+bsp;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">54800&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">424800&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">514800&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">48C512&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">N/A&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">514800&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">16Mx1 (16M)&n=
+bsp;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">516100&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">4216100</font>
+<br><font size=3D"-1">4217100&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">5116100</font>
+<br><font size=3D"-1">5117100&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">41C16000</font>
+<br><font size=3D"-1">41C16100&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">416100&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">5116100&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">4Mx4 (16M)&nb=
+sp;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">516400</font>
+<br><font size=3D"-1">517400&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">4216400</font>
+<br><font size=3D"-1">4217400&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">5116400</font>
+<br><font size=3D"-1">5117400&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">44C4000</font>
+<br><font size=3D"-1">44C4100&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">416400&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">5116400</font>
+<br><font size=3D"-1">5117400&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">1Mx16 (16M)&n=
+bsp;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">516160</font>
+<br><font size=3D"-1">518160&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-2">4216160</font>
+<br><font size=3D"-2">4217160</font>
+<br><font size=3D"-2">4218160&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">5116160</font>
+<br><font size=3D"-1">5118160&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">416C1000&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">416160&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">5116160</font>
+<br><font size=3D"-1">5118160&nbsp;</font></td>
+</tr>
+</tbody></table></center>
+
+<center>
+<p><br><a name=3D"SRAM"></a><b><font size=3D"+1">SRAM Table (1 of 2)</font>=
+</b>
+<br><img src=3D"http://pcexpress.theolddub.com/images/redbar.gif" height=3D=
+"7" width=3D"100%" align=3D"ABSCENTER"></p></center>
+&nbsp;
+<center><table border=3D"2" width=3D"100%">
+<tbody><tr>
+<th bgcolor=3D"#33CC99"><b><font size=3D"+0">Organization/</font></b>
+<br><b><font size=3D"+0">Density&nbsp;</font></b></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">Fujitsu</font>
+<br><font size=3D"+0">MB&nbsp;</font></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">Goldstar</font>
+<br><font size=3D"+0">GM&nbsp;</font></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">Hitachi</font>
+<br><font size=3D"+0">HM&nbsp;</font></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">Hyundai</font>
+<br><font size=3D"+0">HY&nbsp;</font></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">Mitsubishi</font>
+<br><font size=3D"+0">M5M&nbsp;</font></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">Mosel/Vitelic</font>
+<br><font size=3D"+0">MS&nbsp;</font></th>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">2k x 8 (16k)&=
+nbsp;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">8416&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">76C28&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">6116&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">6116&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">5117&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">6516&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">8k x 8 (64k)&=
+nbsp;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">8464&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">76C88&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">6264&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">6264&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">5165&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">6264/6265&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">32k x 8 (256k=
+)&nbsp;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">84256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">76C256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">62256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">62256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">5255 / 5256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">62256&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">128k x 8 (1M)=
+&nbsp;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">841000&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">76C8128&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">628128&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">628100&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">51008 / 51108&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">628128&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">512k x 8 (4M)=
+&nbsp;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">N/A&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">N/A&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">628512&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">628400&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">5408&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">N/A&nbsp;</font></td>
+</tr>
+</tbody></table></center>
+
+<center>
+<p><br><b><font size=3D"+1">SRAM Table (2 of 2)</font></b>
+<br><img src=3D"http://pcexpress.theolddub.com/images/redbar.gif" height=3D=
+"7" width=3D"100%" align=3D"ABSCENTER"></p></center>
+&nbsp;
+<center><table border=3D"2" width=3D"100%">
+<tbody><tr>
+<th bgcolor=3D"#33CC99"><b><font size=3D"+0">Organization/</font></b>
+<br><b><font size=3D"+0">Density&nbsp;</font></b></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">NEC</font>
+<br><font size=3D"+0">UPD&nbsp;</font></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">OKI</font>
+<br><font size=3D"+0">MSM&nbsp;</font></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">Samsung</font>
+<br><font size=3D"+0">KM&nbsp;</font></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">Sony</font>
+<br><font size=3D"+0">CXK&nbsp;</font></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">Toshiba</font>
+<br><font size=3D"+0">TC&nbsp;</font></th>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">2k x 8 (16k)&=
+nbsp;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">4416&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">N/A&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">N/A&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">5816&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">TMM2016</font>
+<br><font size=3D"-1">5516 / 5517&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">8k x 8 (64k)&=
+nbsp;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">4464&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">5165&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">6264&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">5864B&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">5564 / 5565&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">32k x 8 (256k=
+)&nbsp;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">43256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">51256 / 51257&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">62256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">58257 / 58267&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">55257&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">128k x 8 (1M)=
+&nbsp;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">431000&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">521001&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">681000&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">581000 / 581001&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">551001&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">512k x 8 (4M)=
+&nbsp;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">434000&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">N/A&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">684000&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">584000 / 584001&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">554002&nbsp;</font></td>
+</tr>
+</tbody></table></center>
+
+<hr size+3=3D"">
+<p><br>
+</p><center>
+<p><a name=3D"cache"></a><b><font size=3D"+1">Cache SRAM Table (1 of 1)</fo=
+nt></b>
+<br><img src=3D"http://pcexpress.theolddub.com/images/redbar.gif" height=3D=
+"7" width=3D"100%" align=3D"ABSCENTER"></p></center>
+&nbsp;
+<center><table border=3D"2" width=3D"100%">
+<tbody><tr>
+<th bgcolor=3D"#33CC99"><b><font size=3D"+0">Organization/</font></b>
+<br><b><font size=3D"+0">Density&nbsp;</font></b></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">Alliance</font>
+<br><font size=3D"+0">AS&nbsp;</font></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">Cypress</font>
+<br><font size=3D"+0">CY&nbsp;</font></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">IDT</font>
+<br><font size=3D"+0">IDT&nbsp;</font></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">ISSI</font>
+<br><font size=3D"+0">IS&nbsp;</font></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">Micron</font>
+<br><font size=3D"+0">MT&nbsp;</font></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">Motorola</font>
+<br><font size=3D"+0">MOT&nbsp;</font></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">Paradigm</font>
+<br><font size=3D"+0">PDM&nbsp;</font></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">Samsung</font>
+<br><font size=3D"+0">KM&nbsp;</font></th>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">8k x 8 (64k)&=
+nbsp;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">7C164&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">7C185&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">7164&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">61C64&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">5C6408&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">6264&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">N/A&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">6865&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">32k x 8 (256k=
+)&nbsp;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">7C256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">7C199&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">71256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">61C256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">5C2568&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">6206&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">41256&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">68257&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">128k x 8 (1M)=
+&nbsp;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">7C1024&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">7C109&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">71024&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">61C1024&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">5C1008&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">6226&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">41024&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">681001&nbsp;</font></td>
+</tr>
+
+<tr>
+<td align=3D"CENTER" bgcolor=3D"#33CC99"><b><font size=3D"-1">256k x 4 (1M)=
+&nbsp;</font></b></td>
+
+<td align=3D"CENTER"><font size=3D"-1">7C1028&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">7C106&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">71028&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">N/A&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">5C1005&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">6229&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">41028&nbsp;</font></td>
+
+<td align=3D"CENTER"><font size=3D"-1">641001&nbsp;</font></td>
+</tr>
+</tbody></table></center>
+
+<center><a name=3D"MAC VRAM"></a><b><font size=3D"+1">MAC VRAM*</font></b>
+<br><img src=3D"http://pcexpress.theolddub.com/images/redbar.gif" height=3D=
+"7" width=3D"100%" align=3D"ABSCENTER"></center>
+
+<br>&nbsp;
+<table border=3D"" width=3D"100%">
+<tbody><tr>
+<th rowspan=3D"2" bgcolor=3D"#33CC99"><b><font size=3D"+0">Display Size&nbs=
+p;</font></b></th>
+
+<th colspan=3D"4" bgcolor=3D"#33CC99"><font size=3D"+0">VRAM Installed&nbsp=
+;</font></th>
+</tr>
+
+<tr>
+<th bgcolor=3D"#33CC99"><font size=3D"+0">512k</font></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">1Mb&nbsp;</font></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">2Mb&nbsp;</font></th>
+
+<th bgcolor=3D"#33CC99"><font size=3D"+0">4Mb&nbsp;</font></th>
+</tr>
+
+<tr>
+<td bgcolor=3D"#33CC99"><b><font size=3D"-1">14 inch displays</font></b></t=
+d>
+
+<td><font size=3D"-1">256colors&nbsp;</font></td>
+
+<td><font size=3D"-1">32,768colors&nbsp;</font></td>
+
+<td><font size=3D"-1">16.7million colors&nbsp;</font></td>
+
+<td><font size=3D"-1">16.7million colors&nbsp;</font></td>
+</tr>
+
+<tr>
+<td bgcolor=3D"#33CC99"><b><font size=3D"-1">15 inch displays</font></b></t=
+d>
+
+<td><font size=3D"-1">256colors&nbsp;</font></td>
+
+<td><font size=3D"-1">32,768colors&nbsp;</font></td>
+
+<td><font size=3D"-1">16.7million colors&nbsp;</font></td>
+
+<td><font size=3D"-1">16.7million colors&nbsp;</font></td>
+</tr>
+
+<tr>
+<td bgcolor=3D"#33CC99"><b><font size=3D"-1">17 inch displays</font></b></t=
+d>
+
+<td><font size=3D"-1">256colors&nbsp;</font></td>
+
+<td><font size=3D"-1">32,768colors&nbsp;</font></td>
+
+<td><font size=3D"-1">16.7million colors&nbsp;</font></td>
+
+<td><font size=3D"-1">16.7million colors&nbsp;</font></td>
+</tr>
+
+<tr>
+<td bgcolor=3D"#33CC99"><b><font size=3D"-1">20 inch displays</font></b></t=
+d>
+
+<td><font size=3D"-1">16colors&nbsp;</font></td>
+
+<td><font size=3D"-1">256colors&nbsp;</font></td>
+
+<td><font size=3D"-1">32,768colors&nbsp;</font></td>
+
+<td><font size=3D"-1">16.7million colors&nbsp;</font></td>
+</tr>
+</tbody></table>
+
+<p><i><font size=3D"-1">*This table is to be used as a general guideline. I=
+ncreasing
+resolution beyond 640 x 480 could require more VRAM than listed here.&nbsp;=
+</font></i><img src=3D"http://pcexpress.theolddub.com/images/redbar.gif" he=
+ight=3D"7" width=3D"100%" align=3D"ABSCENTER">
+
+
+
+</p></body></html>
+------MultipartBoundary--F7SNffRNQ7HJgG83V1v3VooQWibVKKhHQEHJ7zRRlo----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://pcexpress.theolddub.com/images/redbar.gif
+
+R0lGODdhvAIIAPcAAE8ZE1YaFFYaFHEjG6czJ9FFN9NLPdRSROKJgPDBvPLIxPLIxPPPy/bb2Pbb
+2P//////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////ywAAAAAvAIIAAAI/gATKBAo
+UIHBgQYLKkzIEKHDhQ8bQpwosWLEixQxWszIcaNHjSA7hvwosiTJkyNTmlSJcqXLljBZynw5MybN
+mzZz1tyJk6fOnkA/HoSYsAEDBkYbJEXKlOlSo06jRl06telTq1WrQr26NSvXo1+1gvVK9qrYs2HT
+lpWq1mxbtmupvpUbF6vbul3v6oW7l25fu3wD+xUMeLDhwojzElZ8mHHisX8dS4a8mHJjy4/R4sU8
+WfNfzQwSiB5NurTp06hTq17NurXr17Bjy55Nu7bt27hz697Nu7fv38CDCx9OXDiC48iTK1/OvLnz
+59CjS59Ovbr169iza9/Ovbv37+DD/osfT768+fPo0583wL6AAffu37efL79+/Pv08dvPz3+/f/0A
+9hfgfwIWSOCBAyZooIIILuhggxAyKOGDE0ZI4YUWZljhhhhyqGGHIH4ooockhljiiCamiGJ9BLTo
+4oswxijjjDTWaOONOOao44489ujjj0AGKeSQRBZp5JFIJqnkkkw26eSTTQ4g5ZRUVmnllVhmqeWW
+XHbp5ZdghinmmGSWaeaZaKap5ppstunmm3DGKeecdMopQAACCABAnnfq6eeegP4paKCEDmpooYge
+qmiijC7qaKOQPipppJROammlmF6qaaacbuppp6B+KmqopI5qaqmonqpqqqyuqiifBX3uGRAAADs=
+
+------MultipartBoundary--F7SNffRNQ7HJgG83V1v3VooQWibVKKhHQEHJ7zRRlo------
